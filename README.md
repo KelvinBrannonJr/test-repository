@@ -1,2 +1,4 @@
 # My very first repo
-Learnig a git and github course
+Learning git and github online course
+
+Practice makes perfect!
